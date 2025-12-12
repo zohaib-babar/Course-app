@@ -7,7 +7,7 @@ export default function ResumePage() {
       <div>
         <Navbar />
         <Banner />
-      
+        <Features />
         <Footer />
         
       </div>

@@ -37,7 +37,7 @@ export default function Hero() {
         {/* Right Image */}
         <div className="flex justify-center md:justify-end">
           <img
-            src="https://media-sin6-3.cdn.whatsapp.net/v/t61.24694-24/589052601_848405210887212_8150349523155917912_n.jpg?ccb=11-4&oh=01_Q5Aa3QFvJSmWgFEv3-orko-bB7dWRKKjt40o-2DCM69cGyQojQ&oe=6948EFB1&_nc_sid=5e03e0&_nc_cat=108"
+            src="https://images.unsplash.com/photo-1623479322729-28b25c16b011?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZGV2ZWxvcGVyc3xlbnwwfHwwfHx8MA%3D%3D"
             alt="Banner Image"
             className="w-full max-w-md rounded-xl shadow-lg"
           />
