@@ -14,7 +14,7 @@ export default function Hero() {
 
         {/* Left Content */}
         <div>
-          <h1 className="text-4xl md:text-6xl font-bold leading-tight">
+          <h1 className="text-4xl md:text-6xl font-bold loading-tight">
             Build Amazing <span className="text-blue-500">Web Experiences</span>
           </h1>
 
@@ -37,7 +37,7 @@ export default function Hero() {
         {/* Right Image */}
         <div className="flex justify-center md:justify-end">
           <img
-            src="https://images.unsplash.com/photo-1623479322729-28b25c16b011?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZGV2ZWxvcGVyc3xlbnwwfHwwfHx8MA%3D%3D"
+            src="https://images.unsplash.com/photo-1521737711867-e3b97375f902"
             alt="Banner Image"
             className="w-full max-w-md rounded-xl shadow-lg"
           />
