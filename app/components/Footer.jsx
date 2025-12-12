@@ -1,4 +1,3 @@
-
 export default function Footer() {
   return (
     <footer className="bg-gray-900 text-gray-300 pt-12 pb-6">
@@ -6,7 +5,7 @@ export default function Footer() {
 
         {/* Brand */}
         <div>
-          <h2 className="text-2xl font-bold text-white mb-4">MyBrand</h2>
+          <h2 className="text-2xl font-bold text-white mb-4">Plutus Software</h2>
           <p className="text-gray-400">
             Building modern and clean UI web experiences.  
             Let's create something amazing!
