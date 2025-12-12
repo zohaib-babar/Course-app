@@ -8,8 +8,8 @@ export default function ResumePage() {
       <div>
         <Navbar />
         <Banner />
-        <Features />
         <Team />
+        <Features />
         <Footer />
       </div>
   );

@@ -36,9 +36,9 @@ export default function Team() {
 
           {/* Card 3 */}
           <div className="p-8 bg-gray-900 rounded-2xl border border-gray-800 hover:border-blue-500 transition duration-300 shadow-lg hover:shadow-blue-500/20">
-            <div className="text-4xl mb-4">⚡</div>
-            <h3 className="text-2xl font-semibold mb-3">Next.js Apps</h3>
-            <p className="text-gray-400">
+            <div className="text-4xl mb-4"><img className="h-[200px] rounded-full mx-auto" src="https://media-sin6-3.cdn.whatsapp.net/v/t61.24694-24/589052601_848405210887212_8150349523155917912_n.jpg?ccb=11-4&oh=01_Q5Aa3QE_BpBr02HDfaS_q52V0CuBAs606IWD_MSLfJHI-wPpvw&oe=69496031&_nc_sid=5e03e0&_nc_cat=108" alt="" /></div>
+            <h3 className="text-2xl font-semibold mb-3 text-center">Beginner Mern Stack Developer</h3>
+            <p className="text-gray-400 text-center">
               Fast, SEO-friendly, server-powered web apps with Next.js.
             </p>
           </div>

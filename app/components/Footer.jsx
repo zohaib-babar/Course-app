@@ -53,7 +53,7 @@ export default function Footer() {
       {/* Divider */}
       <div className="border-t border-gray-700 mt-10 pt-6 text-center">
         <p className="text-gray-400 text-sm">
-          © {new Date().getFullYear()} MyBrand — All Rights Reserved.
+          © {new Date().getFullYear()} Plutus — All Rights Reserved.
         </p>
       </div>
     </footer>
