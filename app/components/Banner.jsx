@@ -1,6 +1,6 @@
 export default function Hero() {
   return (
-    <section className="w-full bg-gray-900 text-white pt-32 pb-20">
+    <section className="w-full rounded-b-3xl bg-gray-900 text-white pt-32 pb-20">
       <div className="max-w-7xl mx-auto px-6 grid grid-cols-1 md:grid-cols-2 gap-10 items-center">
 
         {/* Left Content */}

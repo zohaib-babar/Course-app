@@ -1,19 +1,7 @@
-// export default function Navbar() {
-//   return (
-//     <nav className="flex bg-gray-900 text-white justify-between items-center p-4">
-//       <div className="text-2xl font-bold pl-3">Zohaib</div>
-
-//       <ul className=" flex gap-10 pr-10">
-//         <li><a href="#">Home</a></li>
-//         <li><a href="#">About</a></li>
-//         <li><a href="#" className="hover:underline-blue-900">Contact</a></li>
-//       </ul>
-//     </nav>
-//   );
-// }
-
 "use client";
+
 import { useState } from "react";
+
 import Link from "next/link";
 
 export default function Navbar() {
@@ -28,7 +16,7 @@ export default function Navbar() {
         <ul className="hidden md:flex gap-8 text-lg">
           <li><Link href="/" className="hover:text-blue-400">Home</Link></li>
           <li><Link href="/projects" className="hover:text-blue-400">Projects</Link></li>
-          <li><Link href="/about" className="hover:text-blue-400">About</Link></li>
+          <li><Link href="/Team" className="hover:text-blue-400">Team</Link></li>
           <li><Link href="/contact" className="hover:text-blue-400">Contact</Link></li>
         </ul>
 
@@ -44,7 +32,7 @@ export default function Navbar() {
         <ul className="md:hidden bg-gray-800 px-6 pb-4 space-y-4 text-lg">
           <li><Link href="/" className="block hover:text-blue-400">Home</Link></li>
           <li><Link href="/projects" className="block hover:text-blue-400">Projects</Link></li>
-          <li><Link href="/about" className="block hover:text-blue-400">About</Link></li>
+          <li><Link href="/about" className="block hover:text-blue-400">Team</Link></li>
           <li><Link href="/contact" className="block hover:text-blue-400">Contact</Link></li>
         </ul>
       )}

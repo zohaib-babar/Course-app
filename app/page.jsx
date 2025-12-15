@@ -5,7 +5,7 @@ import Features from "./components/Features";
 import Team from "./components/Team";
 export default function ResumePage() {
   return (
-      <div>
+      <div className="bg-gray-950">
         <Navbar />
         <Banner />
         <Team />
