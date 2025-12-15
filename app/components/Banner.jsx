@@ -1,12 +1,3 @@
-// import React from 'react'
-
-// export default function Banner() {
-//   return (
-//     <div className='bg-amber-600 h-[400px]'>
-//         <div></div>
-//     </div>
-//   )
-// }
 export default function Hero() {
   return (
     <section className="w-full bg-gray-900 text-white pt-32 pb-20">
@@ -37,7 +28,7 @@ export default function Hero() {
         {/* Right Image */}
         <div className="flex justify-center md:justify-end">
           <img
-            src="https://images.unsplash.com/photo-1521737711867-e3b97375f902"
+            src="https://images.unsplash.com/photo-1549692520-acc6669e2f0c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZGV2ZWxvcGVyc3xlbnwwfHwwfHx8MA%3D%3D"
             alt="Banner Image"
             className="w-full max-w-md rounded-xl shadow-lg"
           />

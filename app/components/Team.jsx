@@ -17,7 +17,7 @@ export default function Team() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10">
 
           {/* Card 1 */}
-          <div className="p-8 bg-gray-900 rounded-2xl border border-gray-800 hover:border-blue-500 transition duration-300 shadow-lg hover:shadow-blue-500/20">
+          <div className="p-8 bg-gray-900 rounded-2xl border border-gray-800 hover:border-blue-500 transition shadow-lg hover:shadow-blue-500/20">
             <div className="text-4xl mb-4"><img className="h-[200px] rounded-full mx-auto" src="https://media-sin6-3.cdn.whatsapp.net/v/t61.24694-24/579848987_24931848053123354_3595120235066606461_n.jpg?ccb=11-4&oh=01_Q5Aa3QFAxbvlCYGi9LiJcMaX0qdhSJkedn2DJvu6vN9HYd021w&oe=69494F11&_nc_sid=5e03e0&_nc_cat=104" alt="" /></div>
             <h3 className="text-2xl font-semibold mb-3 text-center">Abubaker Senior <span className="text-blue-500">Frontened</span> Developer</h3>
             <p className="text-gray-400 text-center">
