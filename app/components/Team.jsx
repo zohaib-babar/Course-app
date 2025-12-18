@@ -6,7 +6,7 @@ export default function Team() {
         {/* Heading */}
         <div className="text-center mb-14">
           <h2 className="text-4xl font-bold">
-            Our<span className="text-blue-500"> Team</span> Member
+            Our<span className="text-blue-500"> Team</span> Members
           </h2>
           <p className="mt-3 text-gray-400 text-lg">
             My team members is very <span className="text-blue-500">Hardworking</span> mens.
