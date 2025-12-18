@@ -14,7 +14,7 @@ export default function Features() {
         </div>
 
         {/* Cards */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10">
+        <div className="grid grid-cols-1  lg:grid-cols-3 gap-10">
 
           {/* Card 1 */}
           <div className="p-8 bg-gray-900 rounded-2xl border border-gray-800 hover:border-blue-500 transition duration-300 shadow-lg hover:shadow-blue-500/20">
