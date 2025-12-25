@@ -1,13 +1,3 @@
-// import React from 'react'
-
-// export default function Banner() {
-//   return (
-//     <div className='bg-amber-600 h-[400px]'>
-//         <div></div>
-//     </div>
-//   )
-// }
-
 export default function Hero() {
   return (
     <section className="w-full bg-gray-900 text-white pt-32 pb-20">
