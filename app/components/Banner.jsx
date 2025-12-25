@@ -1,16 +1,16 @@
 export default function Hero() {
   return (
-    <section className="w-full bg-gray-900 text-white pt-32 pb-20">
+    <section className="w-full rounded-b-3xl bg-gray-900 text-white pt-32 pb-20">
       <div className="max-w-7xl mx-auto px-6 grid grid-cols-1 md:grid-cols-2 gap-10 items-center">
 
         {/* Left Content */}
         <div>
-          <h1 className="text-4xl md:text-6xl font-bold leading-tight">
+          <h1 className="text-4xl md:text-6xl font-bold loading-tight">
             Build Amazing <span className="text-blue-500">Web Experiences</span>
           </h1>
 
           <p className="mt-5 text-gray-300 text-lg md:text-xl max-w-lg">
-            Hi, I design and develop modern websites and web apps using 
+            Hi, I am a web designer and develope modern websites and web apps using 
             the latest technologies like React, Next.js & Tailwind CSS.
           </p>
 
@@ -28,7 +28,7 @@ export default function Hero() {
         {/* Right Image */}
         <div className="flex justify-center md:justify-end">
           <img
-            src="https://images.unsplash.com/photo-1521737711867-e3b97375f902"
+            src="https://images.unsplash.com/photo-1549692520-acc6669e2f0c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZGV2ZWxvcGVyc3xlbnwwfHwwfHx8MA%3D%3D"
             alt="Banner Image"
             className="w-full max-w-md rounded-xl shadow-lg"
           />
