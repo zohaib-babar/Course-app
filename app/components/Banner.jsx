@@ -28,7 +28,7 @@ export default function Hero() {
         {/* Right Image */}
         <div className="flex justify-center md:justify-end">
           <img
-            src="https://images.unsplash.com/photo-1549692520-acc6669e2f0c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZGV2ZWxvcGVyc3xlbnwwfHwwfHx8MA%3D%3D"
+            src="https://media.istockphoto.com/id/2178848997/photo/indian-software-development-working-on-coding-computer-screen-and-flowchart-at-night-in.webp?a=1&b=1&s=612x612&w=0&k=20&c=VklnB2zgIJQXzuGJ_-yfNMNwQHNpU5A5DHrxD4f14zw="
             alt="Banner Image"
             className="w-full max-w-md rounded-xl shadow-lg"
           />

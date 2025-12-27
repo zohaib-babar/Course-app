@@ -5,7 +5,7 @@ export default function Footer() {
 
         
         <div>
-          <h2 className="text-2xl font-bold text-white mb-4">Plutus Software</h2>
+          <h2 className="text-2xl font-bold text-white mb-4">Zohaib Software Company</h2>
           <p className="text-gray-400">
             Building modern and clean UI web experiences.  
             Let's create something amazing!
@@ -53,7 +53,7 @@ export default function Footer() {
       {/* Divider */}
       <div className="border-t border-gray-700 mt-10 pt-6 text-center">
         <p className="text-gray-400 text-sm">
-          © 2025 Plutus — All Rights Reserved.
+          © 2025 Zohaib — All Rights Reserved.
         </p>
       </div>
     </footer>
